@@ -1,4 +1,4 @@
-import 'package:fast_toon/core/router/app_router.dart';
+import 'package:fast_toon/core/router/app_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

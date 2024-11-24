@@ -1,4 +1,4 @@
-import 'package:fast_toon/features/common/presentation/pages/lounge_page.dart';
+import 'package:fast_toon/features/common/presentation/pages/lounge_screen.dart';
 import 'package:fast_toon/features/extra_service/presentation/pages/more_screen.dart';
 import 'package:fast_toon/features/payment/presentation/pages/payment_screen.dart';
 import 'package:fast_toon/features/user/presentation/pages/my_screen.dart';
